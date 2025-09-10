@@ -4,7 +4,6 @@
 
 A simple RESTful API that returns a random inspirational quote. The API implements IP-based rate limiting to prevent abuse.
 
----
 
 ## Backend Endpoint
 http://localhost:8080/api/quote
@@ -17,4 +16,4 @@ http://localhost:8080/api/quote
 - Postman for API testing
 
 
-Access the API endpoint: http://localhost:8080/api/quote
+Access the API endpoint in Postman : http://localhost:8080/api/quote
